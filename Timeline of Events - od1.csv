@@ -1,0 +1,34 @@
+Year,Month,Day,Time,End Year,End Month,End Day,End Time,Display Date,Headline,Text,Media,Media Credit,Media Caption,Media Thumbnail,Type,Group,Background
+2024,5,12,,2024,5,12,,5/12/2024,Ana meets Dr. Sparago,Ana meets with Dr. Sparago discussing concerns about domestic violence. Dr. Sparago assigns F43.22 diagnosis and refers Ana to Dr. Vari.,[Medical notes with diagnosis code],[Source of medical notes],Document showing diagnosis,"Opens in a new windowwww.hschange.org
+relevant portion of medical notes",Event,Phase 1,
+2024,5,18,,2024,5,18,,5/18/2024,Ana meets Dr. Vari,"Ana meets with Dr. Vari, receives Z63.0 diagnosis.",[Medical notes with diagnosis code],[Source of medical notes],Document showing altered diagnosis,"Opens in a new windowwww.chegg.com
+relevant portion of notes",Event,Phase 1,
+2024,5,22,,2024,5,22,,5/22/2024,Incident of physical assault,Ana observed physically harming Arlo.,[Video footage/witness statement],[Source],Description of source,"[If video, a still image]",Event,Phase 1,
+2024,5,24,AM,2024,5,24,AM,5/24/2024 (AM),Dr. Sparago sees evidence,"Dr. Sparago views video of assault, observes bruising, and notes Ana's non-compliance with medical recommendations. Expresses grave concern for Arlo's safety.","[Medical notes, video/images of bruising]",[Source],Descriptions,"[If video, still image]",Event,Phase 1,
+2024,5,24,PM,2024,5,24,PM,5/24/2024 (PM),Dr. Vari's assessment,"Dr. Vari is shown the same evidence as Dr. Sparago, suggests Munchausen by Proxy and states he has mandatory reported Ana.","[Medical notes, video]",[Source],Descriptions,"[If video, still image]",Event,Phase 1,
+2024,5,25,,2024,5,25,,5/25/2024,Dr. Vari misinforms Mike,Dr. Vari tells Mike that DCFS found no evidence to investigate (contradicting DCFS procedures). Dr. Vari explores potential of Munchausen by Proxy with Mike.,"[Notes from conversation with Mike, DCFS policy info]",[Sources],Descriptions,[Relevant DCFS procedure doc],Event,Phase 1,
+2024,5,25,,2024,5,25,,5/25/2024,Dr. Shurin reports concerns,"Dr. Shurin views video evidence and expresses concern regarding safety of Arlo, files mandatory report.","[Report from Dr. Shurin, if available]",[Source],Description,[Relevant portion of report],Event,Phase 1,
+2024,5,29,,2024,5,29,,5/29/2024,Ana visits Dr. Shurin,"Ana visits Dr. Shurin claiming Mike is delusional, downplaying the seriousness of previous concerns.",[Notes from Dr. Shurin (if any)],[Source],Description,[Relevant portion of notes],Event,Phase 1,
+2024,5,30,,2024,5,30,,5/30/2024,Dr. Vari's Letter,Dr. Vari provides Ana with a letter stating she has no mental health issues.,[Letter from Dr. Vari],[Source],Copy of the letter,"Opens in a new windowwww.imdb.com
+letter",Event,Phase 2,
+2024,6,9,,2024,6,9,,6/9/2024,Mike's email raises concerns,"Mike sends an email to Dr. Sparago, Dr. Vari, and Ana expressing concerns about a lack of shared reality, including Ana denying the events of May 24th and downplaying events to Dr. Shurin.",[Copy of the email],[Source],Email screenshot,[Relevant portion of email],Event,Phase 2,
+2024,6,23,,2024,6,23,,6/23/2024,Meeting with Lynne,"Dr. Vari meets with Ana and Esteban. He confirms writing the letter, does not address Lynne's concerns about his previous mandatory reporting.",[Notes from meeting (if any)],[Source],Description,-,Event,Phase 2,
+2024,6,24,,2024,6,24,,6/24/2024,Arlo is seriously harmed,Arlo suffers serious injuries due to actions by Ana and Esteban.,[Medical records/ police reports],[Source],Descriptions and relevant documents,[Relevant portion of records],Event,Phase 2,
+2024,6,24,,2024,6,24,,6/24/2024,Rob contacts Dr. Vari,"Mike's friend, Rob, contacts Dr. Vari expressing concerns about Ana, reports the situation to DCFS and police.",[Email/call log from Rob (if any)],[Source],Description,-,Event,Phase 2,
+2024,6,30,,2024,6,30,,6/30/2024,Lynne's email to Dr. Vari,"Lynne sends an email expressing concerns about Dr. Vari's actions, CC'ing Dr. Sparago.",[Email from Lynne],[Source],Email screenshot,[Relevant portion of email],Event,Phase 2,
+pen_spark,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+2024,7,7,,2024,7,7,,7/7/2024,DCFS Investigation Begins,"DCFS begins an investigation into the situation. Dr. Vari is alleged to support Ana, as evidenced by comments and inside knowledge of the investigation.","[DCFS investigation file (if obtainable), relevant communications]",[Source],Description; relevant document screenshots,[Relevant portion of documents],Event,Phase 3,
+2024,7,9,,2024,7,9,,7/9/2024,Beach Stunt,"Ana and Esteban stage an incident at the beach, potentially to obstruct justice.","[Witness statements, police reports, photos/videos if available]",[Source],Descriptions and relevant images,[Relevant images],Event,Phase 3,
+2024,7,14,,2024,7,14,,7/14/2024,Ana's False Police Report,"Ana files a police report against Mike, falsely accusing him of mental health issues.",[Copy of police report],[Source],Copy of report,[Relevant portion of report],Event,Phase 3,
+2024,7,17,,2024,7,17,,7/17/2024,Dr. Sparago's Silence,Dr. Sparago remains unresponsive when asked to confirm what he stated to DCFS.,[Correspondence with Dr. Sparago (if any)],[Source],Description,-,Event,Phase 3,
+2024,7,21,,2024,7,21,,7/21/2024,Dr. Sparago Recommends Second Opinion,Dr. Sparago suggests a second opinion and acknowledges the investigation is not progressing favorably. He agrees to a joint meeting with Lauren.,[Correspondence with Dr. Sparago],[Source],Description,-,Event,Phase 3,
+2024,7,26,,2024,7,26,,7/26/2024,Dr. Sparago Meets Lauren Alone,"Dr. Sparago meets with Lauren alone, going back on the agreement for a joint meeting.",[Notes from Lauren's meeting],[Source],Description,-,Event,Phase 3,
+2024,7,27,,2024,7,27,,7/27/2024,Mike Sends Termination Letter,Mike sends a letter to terminate Dr. Sparago as Arlo's doctor due to breach of trust.,[Copy of termination letter],[Source],Copy of letter,"Opens in a new windowwww.imdb.com
+letter",Event,Phase 3,
+2024,7,31,,2024,7,31,,7/31/2024,Fake DVRO,"Ana obtains a DVRO against Mike, potentially under false pretenses.",[DVRO document],[Source],Copy of DVRO,"Opens in a new windowsignaturely.com
+document",Event,Phase 3,
+2024,8,1,,2024,8,1,,8/1/2024,Mike's Arrest,"Mike is arrested, likely based on Ana's false accusations.",[Arrest record/police report],[Source],Description; relevant documents,[Relevant portion of report],Event,Phase 3,
+2024,8,7,,2024,8,7,,8/7/2024,Dr. Sparago's Phone Call,"Dr. Sparago's phone call with Mike erases Mike's understanding of the situation and implies Arlo is in the safest care, despite previously expressing the opposite.",[Call recording or detailed notes],[Source],Description,-,Event,Phase 3,
+2024,8,8,,2024,8,8,,8/8/2024,Dr. Sparago Sends Termination Letter,"Dr. Sparago sends Mike a termination letter, recommending 'acute care.'",[Termination letter from Dr. Sparago],[Source],Copy of letter,"Opens in a new windowcanva.com
+letter",Event,Phase 3,
